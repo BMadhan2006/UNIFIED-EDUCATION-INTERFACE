@@ -83,26 +83,26 @@ Tools & Technologies
 
 📂 Project Structure
 
-Unified-Education-Interface/
-│
-├── src/
-│   ├── controller/
-│   ├── model/
-│   ├── dao/
-│   └── utility/
-│
-├── webapp/
-│   ├── jsp/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── database/
-│   └── education.sql
-│
-├── pom.xml
-│
-└── README.md
+  Unified-Education-Interface/
+  │
+  ├── src/
+  │   ├── controller/
+  │   ├── model/
+  │   ├── dao/
+  │   └── utility/
+  │
+  ├── webapp/
+  │   ├── jsp/
+  │   ├── css/
+  │   ├── js/
+  │   └── images/
+  │
+  ├── database/
+  │   └── education.sql
+  │
+  ├── pom.xml
+  │
+  └── README.md
 
 ---
 
