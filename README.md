@@ -109,9 +109,13 @@ Tools & Technologies
 🔐 User Roles
 
   -Role| Responsibilities
+
   -Student| Learning, assignments,             attendance, results
+
   -Teacher| Teaching, grading, attendance management
+
   -Parent| Monitoring student performance
+
   -Admin| Managing entire system
 
 ---
