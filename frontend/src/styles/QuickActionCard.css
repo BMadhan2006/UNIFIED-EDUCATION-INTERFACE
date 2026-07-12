@@ -1,0 +1,42 @@
+.quick-action-card {
+  width: 220px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.quick-action-card:hover {
+  transform: translateY(-5px);
+}
+
+.quick-action-icon {
+  font-size: 35px;
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+
+.quick-action-card h3 {
+  margin: 10px 0;
+}
+
+.quick-action-card p {
+  color: gray;
+}
+
+.quick-action-card button {
+  margin-top: 15px;
+  padding: 8px 18px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+.quick-action-card button:hover {
+  background: #1d4ed8;
+}
